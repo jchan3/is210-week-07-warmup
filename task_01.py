@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Docstring for task_01"""
+"""Docstring for task_01."""
 
 
 def fibonacci(maxint):
@@ -10,7 +10,7 @@ def fibonacci(maxint):
         maxint(int): An integer that serves as the upper bound of the loop.
 
     Returns:
-        new_list: A list of a Fibonacci sequence up to maxint.
+        list: A list of a Fibonacci sequence up to maxint.
 
     Examples:
 
